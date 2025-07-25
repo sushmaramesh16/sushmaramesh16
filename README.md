@@ -97,33 +97,56 @@ Used Airbnb data to predict rental pricing and occupancy rates with Random Fores
 **Visualization & BI**  
 `Tableau` · `Power BI` · `Plotly` · `Matplotlib` · `Seaborn`
 
+### 🧰 Tech Workbench:
+
 ---
-### 🚀 Tech Workbench:
 
 #### Programming Languages
-🟨 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-🟪 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-🔵 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-#### Business Intelligence
-🟡 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+<img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30"/>
+<img src="https://img.icons8.com/color/48/sql.png" width="30"/>
+<img src="https://img.icons8.com/external-flat-juicy-fish/60/external-r-programming-programming-and-coding-flat-flat-juicy-fish.png" width="30"/>
+
+---
+
+#### Data Science Workbench:
+
+**Database**  
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="30"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" width="30"/>
+<img src="https://img.icons8.com/color/48/google-bigquery.png" width="30"/>
+<img src="https://img.icons8.com/ios-filled/50/snowflake.png" width="30"/>
+
+**Data Science Frameworks**  
+<img src="https://img.icons8.com/color/48/000000/jupyter.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/numpy.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/pandas.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/seaborn.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/pytorch.png" width="30"/>
+
+---
 
 #### Web Technologies
-🔴 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-🔵 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-🟢 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-#### Cloud & Data Tools
-❄️ ![Snowflake](https://img.shields.io/badge/-Snowflake-29B2FE?style=flat&logo=snowflake&logoColor=white)
-📓 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+<img src="https://img.icons8.com/color/48/000000/react-native.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" width="30"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" width="30"/>
 
 ---
 
-### 🧠 Primary Languages for Data Science
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+#### Business Intelligence
+
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="30"/>
+
 ---
+
+#### Notebooks
+
+<img src="https://img.icons8.com/color/48/000000/jupyter.png" width="30"/>
+
 ## 📘 Education
 
 ### 🏫 Northeastern University  
