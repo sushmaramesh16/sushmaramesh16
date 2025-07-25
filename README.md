@@ -2,36 +2,36 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Hi from Sushma</title>
-  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+  <title>Hello from Sushma</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
   <style>
     body {
       background-color: #0d1117;
-      color: #fff;
+      color: #ffffff;
       display: flex;
       justify-content: center;
       align-items: center;
       height: 100vh;
-      font-size: 2rem;
     }
     .greeting {
-      font-family: 'Pacifico', cursive;
+      font-family: 'Montserrat', sans-serif;
       font-size: 3rem;
-      color: #ff79c6;
-      text-shadow: 2px 2px #000;
+      font-weight: 600;
+      color: #00ffff;
     }
   </style>
 </head>
 <body>
-  <div class="greeting">Hi there! I'm Sushma Ramesh 👋</div>
-</body>
-</html>
-
-<p align="center">
+  <div class="greeting">Hi there! I'm Sushma Ramesh 👀</div>
+  <p align="center">
   <a href="https://www.linkedin.com/in/sushma-ramesh-5b950321a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge">
   </a>
 </p>
+</body>
+</html>
+
+
 
 
 ---
