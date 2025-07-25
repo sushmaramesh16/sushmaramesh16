@@ -1,4 +1,4 @@
-<h2 align="center">👩‍💻✨💡 Hi there! I'm <span style="font-family: 'Georgia', serif; font-weight: bold;">💫 Sushma Ramesh 💫</span> 🚀🧠📊</h2>
+<h2 align="center">👩‍💻Hi there! I'm <span style="font-family: 'Georgia', serif; font-weight: bold;">Sushma Ramesh</span></h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sushma-ramesh-5b950321a" target="_blank">
@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  🎓 Data Science @ Northeastern University <br/>
-  🧰 ML Models • Cloud-Native Pipelines • Real-World Impact
-</p>
 
 ---
 🎓 **Data Scientist** | **Cloud-Native Developer** | **Data Engineer**
