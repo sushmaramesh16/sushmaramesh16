@@ -12,6 +12,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
+      margin: 0;
     }
     .greeting {
       font-family: 'Montserrat', sans-serif;
@@ -23,14 +24,8 @@
 </head>
 <body>
   <div class="greeting">Hi there! I'm Sushma Ramesh 👀</div>
-  <p align="center">
-  <a href="https://www.linkedin.com/in/sushma-ramesh-5b950321a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge">
-  </a>
-</p>
 </body>
 </html>
-
 
 
 
