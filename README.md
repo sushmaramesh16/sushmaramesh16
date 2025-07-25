@@ -29,7 +29,7 @@ I’m a Data Science graduate student at Northeastern University’s Khoury Coll
 📫 Reach me at **ramesh.sus@northeastern.edu**
 ---
 
-## 🧠 About Me
+## 🧠 About Me:
 
 As a Data Scientist at Unified Mentor, I developed end-to-end ETL pipelines using Python, PySpark, and SQL. I integrated data from APIs and databases using AWS Glue and Snowflake, deploying machine learning models to reduce business disruptions by 12%.
 
@@ -39,7 +39,7 @@ At Northeastern University, I served as a Graduate Teaching Assistant for DS 200
 
 ---
 
-## 🔧 Projects
+## 🔧 Projects:
 
 ### 💬 Comparative Analysis of BiLSTM and BERT for Emotion Recognition  
 This project focuses on recognizing specific emotions (like joy, sadness, anger) in text using BiLSTM and BERT. We perform ablation studies on preprocessing and model choices to enhance real-world emotion recognition systems.  
@@ -111,7 +111,7 @@ Used Airbnb data to predict rental pricing and occupancy rates with Random Fores
 <kbd>Data Pipelines</kbd> <kbd>Scrum</kbd> <kbd>Agile Methodologies</kbd>
 
 ---
-## 📘 Education
+## 📘 Education:
 
 ###  🏛️ Northeastern University  
 **Master of Science (M.S.) in Data Science**  
@@ -134,14 +134,13 @@ Used Airbnb data to predict rental pricing and occupancy rates with Random Fores
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let’s Connect:
 
 I'm passionate about turning complex data into impactful solutions. I'm always open to opportunities in:
 - Data Science & Machine Learning  
 - Natural Language Processing  
 - Scalable Data Engineering  
 - Research Collaborations
-
 
 ---
 
