@@ -6,13 +6,28 @@
 </p>
 
 ---
+🎓 **Data Scientist** | **Cloud-Native Developer** | **Data Engineer**
 
-🎓 **Data Scientist** | **Cloud-Native Developer** | **LLMs & NLP Enthusiast**
+I’m a Data Science graduate student at Northeastern University’s Khoury College of Computer Sciences, specializing in **machine learning**, **cloud-native architecture**, and **scalable data pipelines**. My work bridges research and deployment — with a focus on building reliable, production-ready solutions.
 
-🌱 Currently working on building scalable data pipelines and real-time ML systems  
-👩‍💻 Explore my projects [here](https://github.com/sushmaramesh16)  
-📫 Reach me at: **ramesh.sus@northeastern.edu**
+🔍 I’ve developed:
+- LSTM-based RNNs for emotion and sentiment analysis  
+- ANN models for customer lifetime value prediction  
+- Collaborative filtering systems for personalized recommendations
 
+☁️ On **Google Cloud**, I’ve built end-to-end ML workflows using:
+- **BigQuery** for distributed querying  
+- **Cloud Functions** for automation  
+- **GKE** for scalable model deployment
+
+⚙️ On **AWS**, I’ve engineered real-time pipelines with:
+- **SageMaker** for training and hosting  
+- **Lambda** for serverless automation  
+- **CloudWatch** for robust monitoring
+
+📊 Currently, I’m working on predictive modeling for financial forecasting — using time-series models and ensemble methods to support data-driven investment strategies.
+
+📫 Reach me at **ramesh.sus@northeastern.edu**
 ---
 
 ## 🧠 About Me
