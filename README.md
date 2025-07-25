@@ -43,31 +43,37 @@ At Northeastern University, I served as a Graduate Teaching Assistant for DS 200
 
 ### 💬 Comparative Analysis of BiLSTM and BERT for Emotion Recognition  
 This project focuses on recognizing specific emotions (like joy, sadness, anger) in text using BiLSTM and BERT. We perform ablation studies on preprocessing and model choices to enhance real-world emotion recognition systems.  
-**Skills:** PyTorch · TensorFlow · BERT · BiLSTM · NLP  
+
+**Skills:** **PyTorch** · **TensorFlow** · **BERT** · **BiLSTM** · **NLP**
+
 
 ---
 
 ### ☁️ AWS Delta Lake Implementation  
 Designed a Delta Lake architecture on AWS with ACID compliance and schema evolution. Optimized ETL with Apache Spark, integrated AWS Glue for cataloging, and reduced data processing time by 50%.  
-**Skills:** AWS S3 · Glue · Lambda · Redshift · SageMaker · QuickSight · CloudWatch  
+
+**Skills:** **AWS S3 · Glue · Lambda · Redshift · SageMaker · QuickSight · CloudWatch**
 
 ---
 
 ### 🧠 Semantic Resume Matching using LLMs, FAISS, and RAG  
 Built a smart system to align resumes with job descriptions using SentenceTransformers, LLaMA, and FAISS. Used Retrieval-Augmented Generation (RAG) to generate explainable results.  
-**Skills:** Python · LLaMA · Mistral · FAISS · RAG · NLP  
+
+**Skills:** **Python · LLaMA · Mistral · FAISS · RAG · NLP**
 
 ---
 
 ### 🎮 Toxicity Detection in Multiplayer Game Chats  
 Developed a real-time toxicity detection system using DistilBERT and T5. Compared models like DialoGPT and optimized inference to detect harassment and abusive patterns in multiplayer chat.  
-**Skills:** PyTorch · Hugging Face Transformers · T5 · DistilBERT · Sklearn · NumPy · Pandas  
+
+**Skills:** **PyTorch · Hugging Face Transformers · T5 · DistilBERT · Sklearn · NumPy · Pandas**
 
 ---
 
 ### 🏡 Vacation Rental Market Analysis and Revenue Forecasting  
-Used Airbnb data to predict rental pricing and occupancy rates with Random Forest and Linear Regression. Built a relational database backend and visualized insights for revenue optimization.  
-**Skills:** Python · SQL · Forecasting · RandomForest · Data Visualization  
+Used Airbnb data to predict rental pricing and occupancy rates with Random Forest and Linear Regression. Built a relational database backend and visualized insights for revenue optimization. 
+
+**Skills:** **Python · SQL · Forecasting · RandomForest · Data Visualization**
 
 ---
 
