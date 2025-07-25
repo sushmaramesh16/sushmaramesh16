@@ -1,5 +1,5 @@
 <h1 align="center" style="color:#00ffff; font-family:Montserrat, sans-serif;">
-  Hi there! I'm Sushma Ramesh 👀
+  Hi there! I'm Sushma Ramesh 👋
 </h1>
 
 
