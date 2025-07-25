@@ -1,4 +1,4 @@
-## 👩‍💻✨💡 Hi there! I'm 💫 Sushma Ramesh 💫🚀🧠📊
+## 👩‍💻 Hi there! I'm Sushma Ramesh
 
 🌐 [🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/sushma-ramesh-5b950321a)  
 ---
