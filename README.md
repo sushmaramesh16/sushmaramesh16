@@ -1,31 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Hello from Sushma</title>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
-  <style>
-    body {
-      background-color: #0d1117;
-      color: #ffffff;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-    .greeting {
-      font-family: 'Montserrat', sans-serif;
-      font-size: 3rem;
-      font-weight: 600;
-      color: #00ffff;
-    }
-  </style>
-</head>
-<body>
-  <div class="greeting">Hi there! I'm Sushma Ramesh 👀</div>
-</body>
-</html>
+<h1 align="center" style="color:#00ffff; font-family:Montserrat, sans-serif;">
+  Hi there! I'm Sushma Ramesh 👀
+</h1>
 
 
 
