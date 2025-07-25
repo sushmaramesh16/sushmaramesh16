@@ -98,7 +98,32 @@ Used Airbnb data to predict rental pricing and occupancy rates with Random Fores
 `Tableau` · `Power BI` · `Plotly` · `Matplotlib` · `Seaborn`
 
 ---
+### 🚀 Tech Workbench:
 
+#### Programming Languages
+🟨 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+🟪 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+🔵 ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+#### Business Intelligence
+🟡 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+#### Web Technologies
+🔴 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+🔵 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+🟢 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+#### Cloud & Data Tools
+❄️ ![Snowflake](https://img.shields.io/badge/-Snowflake-29B2FE?style=flat&logo=snowflake&logoColor=white)
+📓 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+### 🧠 Primary Languages for Data Science
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
+---
 ## 📘 Education
 
 ### 🏫 Northeastern University  
