@@ -1,6 +1,16 @@
-## 👩‍💻 Hi there! I'm Sushma Ramesh
+<h2 align="center">👩‍💻✨💡 Hi there! I'm <span style="font-family: 'Georgia', serif; font-weight: bold;">💫 Sushma Ramesh 💫</span> 🚀🧠📊</h2>
 
-🌐 [🔗 Connect with me on LinkedIn](https://www.linkedin.com/in/sushma-ramesh-5b950321a)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sushma-ramesh-5b950321a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge">
+  </a>
+</p>
+
+<p align="center">
+  🎓 Data Science @ Northeastern University <br/>
+  🧰 ML Models • Cloud-Native Pipelines • Real-World Impact
+</p>
+
 ---
 🎓 **Data Scientist** | **Cloud-Native Developer** | **Data Engineer**
 
