@@ -99,7 +99,7 @@ Used Airbnb data to predict rental pricing and occupancy rates with Random Fores
 
 ## 📘 Education
 
-### 🏫 Northeastern University  
+###  🏛️ Northeastern University  
 **Master of Science (M.S.) in Data Science**  
 📍 Boston, MA | 🗓️ September 2024 – May 2026  
 **GPA:** 3.84 / 4.00  
