@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sushma Ramesh</h1>
+<h1 align="center">Hi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png" width="30"/>, I'm <span style="color:#00BFFF">Sushma Ramesh</span></h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sushma-ramesh-5b950321a"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sushma-ramesh-5b950321a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sushmaramesh16" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?logo=github&style=for-the-badge" alt="GitHub"/>
+  </a>
 </p>
 
 ---
