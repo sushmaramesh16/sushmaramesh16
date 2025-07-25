@@ -138,7 +138,6 @@ I'm passionate about turning complex data into impactful solutions. I'm always o
 - Scalable Data Engineering  
 - Research Collaborations
 
-📬 Let’s chat! Connect with me on [LinkedIn](https://www.linkedin.com/in/sushma-ramesh-5b950321a) or explore my work on [GitHub](https://github.com/sushmaramesh16)
 
 ---
 
