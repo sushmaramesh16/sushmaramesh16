@@ -71,11 +71,18 @@ Used Airbnb data to predict rental pricing and occupancy rates with Random Fores
 
 ---
 
-## 🧰 Technical Skills
+## 🧰 Tech Stack:
 
-### 💻 Programming & Databases
-<kbd>SQL</kbd> <kbd>Python</kbd> <kbd>R</kbd> <kbd>Java</kbd> <kbd>C++</kbd> 
+### 💻 Programming & Scripting Languages
+<kbd>Python</kbd> <kbd>SQL</kbd> <kbd>R</kbd> <kbd>Java</kbd> <kbd>C++</kbd> 
+<kbd>JavaScript</kbd> <kbd>HTML</kbd> <kbd>CSS</kbd>
+
+### 🗄️ Databases & Storage
 <kbd>MongoDB</kbd> <kbd>Snowflake</kbd> <kbd>PostgreSQL</kbd> <kbd>MySQL</kbd>
+
+### 🌐 Web & Software Frameworks
+<kbd>Django</kbd> <kbd>Flask</kbd> <kbd>React</kbd> <kbd>Angular</kbd> 
+<kbd>Node.js</kbd> <kbd>Express</kbd>
 
 ### 🔄 Data Engineering & ETL
 <kbd>Apache Spark</kbd> <kbd>Kafka</kbd> <kbd>Airflow</kbd> <kbd>Hadoop</kbd> 
