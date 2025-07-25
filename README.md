@@ -1,4 +1,8 @@
-<h2 align="center">👩‍💻Hi there! I'm <span style="font-family: 'Georgia', serif; font-weight: bold;">Sushma Ramesh</span></h2>
+<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+
+<h1 style="font-family: 'Pacifico', cursive;">
+ 👩‍💻 Hi there! I'm Sushma Ramesh
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sushma-ramesh-5b950321a" target="_blank">
