@@ -96,6 +96,41 @@ Used Airbnb data to predict rental pricing and occupancy rates with Random Fores
 
 **Visualization & BI**  
 `Tableau` · `Power BI` · `Plotly` · `Matplotlib` · `Seaborn`
+<h2>🧰 <b>Tech Stack</b></h2>
+
+<h3>💻 Programming & Query Languages</h3>
+<p>
+  <kbd>Python</kbd> <kbd>SQL</kbd> <kbd>R</kbd> <kbd>Java</kbd> <kbd>C++</kbd>
+</p>
+
+<h3>🗄️ Databases & Storage</h3>
+<p>
+  <kbd>Snowflake</kbd> <kbd>MongoDB</kbd> <kbd>PostgreSQL</kbd> <kbd>MySQL</kbd> <kbd>Delta Lake</kbd> <kbd>Hive</kbd> <kbd>DBT</kbd>
+</p>
+
+<h3>🔄 Data Engineering & Big Data</h3>
+<p>
+  <kbd>Apache Spark</kbd> <kbd>PySpark</kbd> <kbd>Kafka</kbd> <kbd>Airflow</kbd> <kbd>Hadoop</kbd> <kbd>Dremio</kbd>
+</p>
+
+<h3>☁️ Cloud & DevOps</h3>
+<p>
+  <b>AWS:</b> <kbd>S3</kbd> <kbd>Glue</kbd> <kbd>Lambda</kbd> <kbd>Redshift</kbd> <kbd>SageMaker</kbd><br>
+  <b>Azure:</b> <kbd>Synapse</kbd> <kbd>Data Factory</kbd><br>
+  <b>GCP:</b> <kbd>BigQuery</kbd><br>
+  <kbd>Docker</kbd> <kbd>Kubernetes</kbd> <kbd>Terraform</kbd>
+</p>
+
+<h3>🤖 ML & NLP Libraries</h3>
+<p>
+  <kbd>Scikit-learn</kbd> <kbd>XGBoost</kbd> <kbd>TensorFlow</kbd> <kbd>PyTorch</kbd> 
+  <kbd>DistilBERT</kbd> <kbd>T5Tokenizer</kbd> <kbd>Transformers</kbd>
+</p>
+
+<h3>📊 Visualization & BI</h3>
+<p>
+  <kbd>Tableau</kbd> <kbd>Power BI</kbd> <kbd>Plotly</kbd> <kbd>Matplotlib</kbd> <kbd>Seaborn</kbd>
+</p>
 
 ## 📘 Education
 
