@@ -44,7 +44,7 @@ At Northeastern University, I served as a Graduate Teaching Assistant for DS 200
 
 ## 🔧 Projects
 
-### 🔥 Comparative Analysis of BiLSTM and BERT for Emotion Recognition  
+### 💬 Comparative Analysis of BiLSTM and BERT for Emotion Recognition  
 This project focuses on recognizing specific emotions (like joy, sadness, anger) in text using BiLSTM and BERT. We perform ablation studies on preprocessing and model choices to enhance real-world emotion recognition systems.  
 **Skills:** PyTorch · TensorFlow · BERT · BiLSTM · NLP  
 
