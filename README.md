@@ -119,7 +119,7 @@ Used Airbnb data to predict rental pricing and occupancy rates with Random Fores
 **GPA:** 3.84 / 4.00  
 
 **Relevant Coursework:**  
-- 🗂️ **DS5110** – *introduction to Data Management and Processing* (Prof. Roi Yehoshua)  
+- 🗂️ **DS5110** – *Introduction to Data Management and Processing* (Prof. Roi Yehoshua)  
 - 🤖 **DS5220** – *Supervised Machine Learning and Learning Theory* (Prof. Hongyang Zhang)  
 - 🧠 **DS6120** – *Natural Language Processing* (Prof. Uzair Ahmad)  
 - 📘 **DS5983** – *Special Topics: Large Language Models* (Prof. Roi Yehoshua)  
